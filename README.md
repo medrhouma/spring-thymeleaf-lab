@@ -57,5 +57,13 @@ Pour approfondir les compétences :
 
 ## 📟 Conclusion
 
-Ce laboratoire vous guide à travers les bases du modèle **MVC de Spring** avec l'intégration de **Thymeleaf**, en vous permettant de créer des interfaces web dynamiques et maintenables. Un excellent point de départ pour construire des applications web robustes avec Java Spring.
+Ce laboratoire vous guide à travers les bases du modèle **MVC de Spring** avec l'intégration de **Thymeleaf**, en vous permettant de créer des interfaces web dynamiques et maintenables. Un excellent point de départ pour construire des applications web robustes avec Java Spring
+---
+
+## 🧠 Auteur
+
+- Mohamed Rhouma  
+- Étudiant à l’ISET Tozeur  
+- [LinkedIn](https://www.linkedin.com/in/rhouma-mohamed-6291b02b4)  
+- [GitHub](https://github.com/medrhouma)
 
